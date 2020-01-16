@@ -15,5 +15,7 @@ int main(void){
 	printf("Brian Bui\n");
 	printf("Computer Science\n");
 
+	printf("Truong Tran\n");
+	printf("Electrical Engineer\n");
 	return 0;
 }
