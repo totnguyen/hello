@@ -8,7 +8,12 @@
 #include <stdlib.h>
 
 int main(void){
+
 	printf("Tommy Nguyen!\n");
 	printf("Software Engineer\n");
+
+	printf("Brian Bui\n");
+	printf("Computer Science\n");
+
 	return 0;
 }
